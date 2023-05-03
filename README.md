@@ -15,3 +15,5 @@ This sample demonstrates a tiny Hello World PHP app for [App Service](https://do
 ## Contributing
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+Como executar aplicações Web no Azure App Service: https://www.youtube.com/watch?v=LEpcqyfQ6Sk
